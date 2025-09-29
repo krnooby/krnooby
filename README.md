@@ -52,6 +52,8 @@
 > ClassMate: LangGraph(에이전트 오케스트레이션)·GraphRAG(그래프 기반 RAG) 학습 도우미
 
 ---
+🏆 Awards(수상)
+ICT 어워드 대상(Grand Prize, 대상), 주관: 한국정보처리학회, 팀: TrailMate, 프로젝트: Camptory
 
 ## 📊 GitHub stats(통계)
 
