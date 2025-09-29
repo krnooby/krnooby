@@ -1,16 +1,14 @@
 
 
-<p align="center">Deep Learning Developer(딥러닝 개발자) · LLM(대규모 언어 모델) · CNN(합성곱 신경망) · RAG(검색 증강 생성) · Agent(에이전트)</p>
+<p align="center">Deep Learning Developer LLM CNN  RAG Agent</p>
 
 ---
 
 ## 🚀 About me
-- **딥러닝 개발자**. LLM(대규모 언어 모델)·CNN(합성곱 신경망) 중심 프로젝트 수행.
-- Builder for **TrailMate**: 캠핑 관련 LLM+RAG 에이전트 챗봇
-- Creator of **ClassMate**: 학원용 영어 학습 에이전트 시스템
+- **딥러닝 개발자**. LLM(대규모 언어 모델)·CNN(합성곱 신경망) 중심 프로젝트 수행
+- Builder for TrailMate: 캠핑 관련 LLM+RAG 에이전트 챗봇
+- Creator of ClassMate: 학원용 영어 학습 에이전트 시스템
 - 주요 스택: Python, Java, PyTorch, LangGraph(에이전트 오케스트레이션 프레임워크), Cypher(그래프 질의 언어), SQL(구조적 질의 언어)
-
-> 용어: LLM(대규모 언어 모델), CNN(합성곱 신경망), RAG(검색 증강 생성), Agent(에이전트), GraphRAG(그래프 기반 RAG), LangGraph(에이전트 오케스트레이션 프레임워크), Cypher(그래프 질의 언어), SQL(구조적 질의 언어)
 
 ---
 
