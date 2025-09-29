@@ -45,7 +45,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krnooby&repo=ClassMate&show_owner=true" />
 </a>
 
-> RegDoc AI: LLM(대규모 언어 모델)+RAG(검색 증강 생성)로 ICH CTD(국제 공통 기술 문서) 자동화
+> CTDMate: LLM(대규모 언어 모델)+RAG(검색 증강 생성)로 ICH CTD(국제 공통 기술 문서) 자동화
 >
 > ClassMate: LangGraph(에이전트 오케스트레이션)·GraphRAG(그래프 기반 RAG) 학습 도우미
 
