@@ -41,7 +41,7 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?logo=graph&logoColor=white)
 
 **Models & Techniques**
-- OpenAI API (GPT-4o, o4-mini, o3)
+- OpenAI API & Local Models
 - Fine-tuning (LoRA, QLoRA, 양자화)
 - llama.cpp (온디바이스)
 - RAG, GraphRAG, ReAct Pattern
