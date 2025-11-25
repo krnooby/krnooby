@@ -229,7 +229,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=krnooby&color=blueviolet&style=flat-square)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2024.11-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025.11-blue?style=flat-square)
 
 </div>
 ## 📱 프로젝트 포트폴리오 & 데모
